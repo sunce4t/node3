@@ -1,0 +1,2 @@
+/usr/bin/ar qc libworker.a  CMakeFiles/worker.dir/handler.cc.o CMakeFiles/worker.dir/worker.cc.o
+/usr/bin/ranlib libworker.a

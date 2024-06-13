@@ -1,0 +1,2 @@
+/usr/bin/ar qc libford.a  CMakeFiles/ford.dir/connection/meta_manager.cc.o CMakeFiles/ford.dir/connection/qp_manager.cc.o CMakeFiles/ford.dir/scheduler/corotine_scheduler.cc.o CMakeFiles/ford.dir/race/doorbell.cc.o CMakeFiles/ford.dir/race/race.cc.o
+/usr/bin/ranlib libford.a
