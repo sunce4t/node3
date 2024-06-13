@@ -1,0 +1,208 @@
+[33m[handler.cc:112] Load Data Path:/home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt
+[0m[33m[handler.cc:140] /home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt is used.
+[0m[33m[meta_manager.cc:16] Run FORD
+[0m[33m[meta_manager.cc:37] All hash meta received
+[0m[33m[handler.cc:273] Alloc local memory: 16000 MB. Waiting...
+[0m[33m[handler.cc:285] Spawn threads to execute...
+[0m0 3125000
+retry:0compute_node_id1
+cmp:0  cmp+1:1   data_buf:0
+success cmp:0compute_node_id1
+[33m[handler.cc:453] Init Dir Success! Ready Go!
+[0mdir split:13942	coro_id:1	thread_id:3
+dir split:57060	coro_id:3	thread_id:14
+thread:0	finish_num:349839local_dir_lock:0
+dir split:71058	coro_id:1	thread_id:4
+dir split:110370	coro_id:4	thread_id:2
+dir split:439918	coro_id:2	thread_id:0
+Insert Speed: 1.13819e+06	 used: 87.859
+Update
+1 73958
+2 3369
+3 187
+4 28
+5 5
+6 4
+7 1
+8 2
+9 5
+10 6
+total blk cnt is: 14117947931288350552
+[33m[handler.cc:864] DONE
+[0m[33m[handler.cc:112] Load Data Path:/home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt
+[0m[33m[handler.cc:140] /home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt is used.
+[0m[33m[meta_manager.cc:16] Run FORD
+[0m[33m[meta_manager.cc:37] All hash meta received
+[0m[33m[handler.cc:273] Alloc local memory: 16000 MB. Waiting...
+[0m[33m[handler.cc:285] Spawn threads to execute...
+[0m0 3125000
+retry:0compute_node_id1
+cmp:0  cmp+1:1   data_buf:0
+success cmp:0compute_node_id1
+[33m[handler.cc:453] Init Dir Success! Ready Go!
+[0mdir split:12898	coro_id:1	thread_id:30
+dir split:42949	coro_id:4	thread_id:3
+thread:0	finish_num:349839local_dir_lock:0
+dir split:92280	coro_id:3	thread_id:13
+dir split:69381	coro_id:1	thread_id:8
+dir split:174141	coro_id:3	thread_id:1
+Insert Speed: 984440	 used: 101.581
+Update
+1 71360
+2 3091
+3 193
+4 23
+5 12
+6 8
+7 4
+8 5
+9 2
+10 27
+total blk cnt is: 79396
+[33m[handler.cc:864] DONE
+[0m[33m[handler.cc:113] Load Data Path:/home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt
+[0m[33m[handler.cc:141] /home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt is used.
+[0m[33m[meta_manager.cc:16] Run FORD
+[0m[33m[meta_manager.cc:37] All hash meta received
+[0m[33m[handler.cc:274] Alloc local memory: 16000 MB. Waiting...
+[0m[33m[handler.cc:286] Spawn threads to execute...
+[0m0 3125000
+[33m[handler.cc:113] Load Data Path:/home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt
+[0m[33m[handler.cc:141] /home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt is used.
+[0m[33m[meta_manager.cc:16] Run FORD
+[0m[33m[meta_manager.cc:37] All hash meta received
+[0m[33m[handler.cc:274] Alloc local memory: 16000 MB. Waiting...
+[0m[33m[handler.cc:286] Spawn threads to execute...
+[0m0 3125000
+retry:0compute_node_id1
+cmp:0  cmp+1:1   data_buf:0
+success cmp:0compute_node_id1
+[33m[handler.cc:455] Init Dir Success! Ready Go!
+[0mdir split:12898	coro_id:4	thread_id:30
+thread:0	finish_num:349839local_dir_lock:0
+dir split:45571	coro_id:4	thread_id:8
+dir split:53429	coro_id:1	thread_id:22
+dir split:253188	coro_id:4	thread_id:24
+dir split:330210	coro_id:3	thread_id:30
+Read async: size! offset: 18446604397613378160 id: 3
+error
+error
+error
+error
+Read async: size! offset: Read async: size! offset: Read async: size! offset: 18446604397613378416 id: 184466043976133783524 id: 
+3
+Read async: size! offset: 18446604397613376048 id: 3
+Read async: size! offset: 18446604397613376624 id: 1
+18446604397613376240Read async: size! offset: 18446604397613376688 id: 2
+Read async: size! offset: 18446604397613375920 id:  id: 3
+Read async: size! offset: 18446604397613377392 id: 4
+error
+error
+Read async: size! offset: 18446604397613376624 id: 43
+
+Read async: size! offset: 18446604397613376240 id: 1
+error
+error
+Read async: size! offset: 18446604397613378416 id: 1
+Read async: size! offset: 18446604397613375664 id: 2
+[33m[handler.cc:113] Load Data Path:/home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt
+[0m[33m[handler.cc:141] /home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt is used.
+[0m[33m[meta_manager.cc:16] Run FORD
+[0m[33m[meta_manager.cc:37] All hash meta received
+[0m[33m[handler.cc:274] Alloc local memory: 16000 MB. Waiting...
+[0m[33m[handler.cc:286] Spawn threads to execute...
+[0m0 3125000
+retry:0compute_node_id1
+cmp:0  cmp+1:1   data_buf:0
+success cmp:0compute_node_id1
+[33m[handler.cc:113] Load Data Path:/home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt
+[0m[33m[handler.cc:141] /home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt is used.
+[0m[33m[meta_manager.cc:16] Run FORD
+[0m[33m[meta_manager.cc:37] All hash meta received
+[0m[33m[handler.cc:274] Alloc local memory: 16000 MB. Waiting...
+[0m[33m[handler.cc:286] Spawn threads to execute...
+[0m0 3125000
+error!
+retry:1compute_node_id1
+cmp:1  cmp+1:2   data_buf:1
+[33m[handler.cc:113] Load Data Path:/home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt
+[0m[33m[handler.cc:141] /home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt is used.
+[0m[33m[meta_manager.cc:16] Run FORD
+[0m[33m[meta_manager.cc:37] All hash meta received
+[0m[33m[handler.cc:274] Alloc local memory: 16000 MB. Waiting...
+[0m[33m[handler.cc:286] Spawn threads to execute...
+[0m0 3125000
+retry:0compute_node_id1
+cmp:0  cmp+1:1   data_buf:0
+success cmp:0compute_node_id1
+[33m[handler.cc:455] Init Dir Success! Ready Go!
+[0mdir split:10548	coro_id:2	thread_id:29
+dir split:58402	coro_id:2	thread_id:0
+thread:0	finish_num:349839local_dir_lock:0
+dir split:78485	coro_id:4	thread_id:27
+dir split:261581	coro_id:4	thread_id:14
+dir split:296338	coro_id:3	thread_id:14
+Insert Speed: 1.09835e+06	 used: 91.0455
+Update
+over : 14
+over : 12
+over : 19
+over : 26
+over : 61
+over : 19
+over : 15
+1 72788
+2 3329
+3 190
+4 20
+5 6
+6 6
+7 7
+8 3
+9 3
+10 10
+total blk cnt is: 80458
+[33m[handler.cc:869] DONE
+[0m[33m[handler.cc:113] Load Data Path:/home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt
+[0m[33m[handler.cc:141] /home/dell/yzx/ycsb_output/1-node/uniform/insert_delete_100M.txt is used.
+[0m[33m[meta_manager.cc:16] Run FORD
+[0m[33m[meta_manager.cc:37] All hash meta received
+[0m[33m[handler.cc:274] Alloc local memory: 16000 MB. Waiting...
+[0m[33m[handler.cc:286] Spawn threads to execute...
+[0m0 3125000
+retry:0compute_node_id1
+cmp:0  cmp+1:1   data_buf:0
+success cmp:0compute_node_id1
+[33m[handler.cc:455] Init Dir Success! Ready Go!
+[0mdir split:12898	coro_id:1	thread_id:30
+dir split:30817	coro_id:3	thread_id:23
+thread:0	finish_num:349839local_dir_lock:0
+dir split:53429	coro_id:4	thread_id:22
+dir split:7985	coro_id:1	thread_id:5
+dir split:285661	coro_id:2	thread_id:23
+Insert Speed: 1.05485e+06	 used: 94.8
+Update
+over : 16
+over : 12
+over : 15
+over : 118
+over : 13
+over : 30
+over : 11
+over : 27
+over : 23
+1 63470
+2 6945
+3 760
+4 134
+5 24
+6 9
+7 6
+8 2
+9 2
+10 10
+
+
+total blk cnt is: 80701
+[33m[handler.cc:869] DONE
+[0m
