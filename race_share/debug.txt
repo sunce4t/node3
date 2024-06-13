@@ -1,0 +1,7 @@
+frame 7
+p ((Directory*)server->race_server->index->dir_ptr)
+
+p ((Segment*)server->race_server->index->seg_ptr)
+
+p *(Segment*)((uint64_t)(((Directory*)server->race_server->index->dir_ptr)->seg[1024]) & addr_mask )
+p ((uint64_t)(((Directory*)server->race_server->index->dir_ptr)->seg[1024]) >> 48 )

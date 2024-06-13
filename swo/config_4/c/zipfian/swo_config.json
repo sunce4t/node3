@@ -1,0 +1,15 @@
+{
+    "swo": {
+        "num_subscriber": 100000,
+        "warm_num": 2500000,
+        "load_num": 25000000,
+        "run_num": 25000000,
+        "update_num": 25000000,
+        "delete_num": 25000000,
+        "warm_data_path": "/home/dell/yzx/ycsb_output/4-node/zipfian/load_10M_c",
+        "load_data_path": "/home/dell/yzx/ycsb_output/4-node/zipfian/insert_delete_100M_c",
+        "run_data_path": "/home/dell/yzx/ycsb_output/4-node/zipfian/read_100M_c",
+        "update_data_path": "/home/dell/yzx/ycsb_output/4-node/zipfian/update_100M_c",
+        "delete_data_path": "/home/dell/yzx/ycsb_output/4-node/zipfian/insert_delete_100M_c"
+    }
+}

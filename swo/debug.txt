@@ -1,0 +1,17 @@
+frame 7
+p ((Directory*)server->race_server->index->dir_ptr)->level
+
+p ((Segment*)server->race_server->index->seg_ptr)
+
+p ((Pair*)server->race_server->index->kv_ptr)
+
+p ((partial_t*)server->race_server->index->partial_ptr)
+
+p *(Segment*)((uint64_t)(((Directory*)server->race_server->index->dir_ptr)->seg[1024]) & addr_mask )
+p ((uint64_t)(((Directory*)server->race_server->index->dir_ptr)->seg[1024]) >> 48 )
+
+p CityHash64WithSeed(((Pair *)((uint64_t)seg[act_depth].bucket[j].slot[k] & addr_mask))->key, 16, 0xc70697)
+p CityHash64WithSeed(((Pair *)((uint64_t)seg[act_depth].bucket[j].slot[k] & addr_mask))->key, 16, 0xc63548)
+
+
+((Pair *)((uint64_t)seg[i].bucket[j].slot[k] & addr_mask))->key

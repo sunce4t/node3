@@ -1,0 +1,49 @@
+[33m[handler.cc:77] Warm Data Path:/home/dell/yzx/ycsb_output-old/run_10M_b
+[0m[33m[handler.cc:104] /home/dell/yzx/ycsb_output-old/run_10M_b is used.
+[0m[33m[handler.cc:108] Load Data Path:/home/dell/yzx/ycsb_output-old/4-node/load_100M_b
+[0m[33m[handler.cc:135] /home/dell/yzx/ycsb_output-old/4-node/load_100M_b is used.
+[0m[33m[handler.cc:141] Run Data Path:/home/dell/yzx/ycsb_output-old/4-node/load_100M_b
+[0m[33m[handler.cc:150] Same Depth Use Same Array!
+[0m[33m[meta_manager.cc:16] Run FORD
+[0m[33m[meta_manager.cc:37] All hash meta received
+[0m[33m[handler.cc:198] Alloc local memory: 1600 MB. Waiting...
+[0m[33m[handler.cc:210] Spawn threads to execute...
+[0m[33m[handler.cc:312] Init Dir Success! Ready Go!
+[0mWarm up! 2500000 used: 
+[33m[handler.cc:403] Init Dir Success! Ready Go!
+[0m922552
+921627
+912580
+910538
+914909
+915950
+913428
+911139
+911032
+909385
+907709
+907187
+908207
+906429
+907387
+907015
+906321
+903063
+901385
+910798
+910472
+909141
+909645
+909698
+909692
+909470
+861896
+220948
+129119
+70762
+update	cas	read	write
+0	226070664	10614692096	1760000000
+Insert Speed: 3.23951e+06	
+50440
+[33m[handler.cc:533] Init Dir Success! Ready Go!
+[0mSearch Speed: 5.55655e+06	
