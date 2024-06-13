@@ -1,9 +1,0 @@
-{
-    "race": {
-        "num_subscriber": 100000,
-        "load_num": 250000,
-        "run_num":  25000,
-        "load_data_path": "/home/dell/yzx/ycsb_output/load_100M_d",
-        "run_data_path": "/home/dell/yzx/ycsb_output/zip_run_10M.txt"
-    }
-}

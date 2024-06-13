@@ -1,7 +1,0 @@
-ford tx_type try_num commit_num abort_rate
-ford tx_type try_num commit_num abort_rate
-ford tx_type try_num commit_num abort_rate
-ford tx_type try_num commit_num abort_rate
-
-ford tx_type try_num commit_num abort_rate
-
