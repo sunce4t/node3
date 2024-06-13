@@ -1,2 +1,0 @@
-/usr/bin/ar qc librace_db.a  CMakeFiles/race_db.dir/race_db.cc.o
-/usr/bin/ranlib librace_db.a

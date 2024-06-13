@@ -1,2 +1,0 @@
-/usr/bin/ar qc librlib.a  
-/usr/bin/ranlib librlib.a

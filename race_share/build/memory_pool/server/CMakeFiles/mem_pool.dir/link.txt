@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-unused-result -fPIC -O0 -DDEBUG -g  -rdynamic CMakeFiles/mem_pool.dir/server.cc.o  -o mem_pool  ../../workload/race/librace_db.a ../../thirdparty/rlib/librlib.a -libverbs -lpthread 

@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wno-unused-result -fPIC -O0 -DDEBUG -g  -rdynamic CMakeFiles/hashrun.dir/run.cc.o  -o hashrun  ../worker/libworker.a ../../core/libford.a ../../thirdparty/rlib/librlib.a -libverbs -lpthread -lboost_coroutine -lboost_context -lboost_system -lcityhash ../../workload/race/librace_db.a 
